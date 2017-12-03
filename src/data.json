@@ -1,0 +1,50 @@
+{
+  "pages": [
+    {
+      "content": "",
+      "excerpt": "",
+      "title": "I drink coffee, write code and improve my development skills every day.",
+      "name": "about"
+    },
+    {
+      "content": "DO YOU HAVE DIGITAL PROJECT? [LETS TALK](mailto:alex@frithir.com)",
+      "excerpt": "",
+      "title": "ALWAYS INTERESTED IN COOL IDEAS.",
+      "name": "contact"
+    },
+    {
+      "content": "\n",
+      "excerpt": "",
+      "title": "With more than 10 years of experience in digital development & hundreds of websites developed. I write",
+      "orange": "code that works™",
+      "name": "experience"
+    },
+    {
+      "content": "",
+      "excerpt": "",
+      "title": "Y Studio",
+      "subtitle": "Digital",
+      "subtitle2": "Development",
+      "name": "home"
+    },
+    {
+      "content": "* **FRONT-END**\\\n  JAVASCRIPT, ES6, REACT, GULP, HTML5, CSS3\n* **BACK-END**\\\n  NODEJS, PHP, API'S, SYS-ADMIN, LETSENCRYPT, SQL\n* **CMS**\\\n  NETLIFY-CSM, CONTENTFUL, WORDPRESS & MORE...\n* **APPS**\\\n  PROGRESSIVE WEB APPS, REACT, FIREBASE\n* **CLOUD**\\\n  AWS, GOOGLE, FIREBASE, FTTT, ZAPIER\n* **E-COMMERCE**\\\n  STRIPE & MORE...",
+      "excerpt": "",
+      "title": "WHAT I DO",
+      "name": "what-i-do"
+    }
+  ],
+  "settings": [
+    {
+      "siteTitle": "Alex Frith | Freelance Front End Developer - Gold Coast, Australia",
+      "siteUrl": "https://netlify-cms-react-starter.netlify.com",
+      "siteDescription": "Lightning-fast, offline-first portfolio built on Netlify CMS and React.",
+      "socialMediaCard": {
+        "image": "/images/uploads/card-og.png",
+        "twitterCreatorAccount": "@frithir_com",
+        "twitterSiteAccount": ""
+      },
+      "name": "global"
+    }
+  ]
+}

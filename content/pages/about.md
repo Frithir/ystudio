@@ -1,3 +1,4 @@
 ---
-title: I drink coffee, write code and improve my development skills every day.
+title: 'We drink coffee, write code to improve our development skills every day.'
 ---
+

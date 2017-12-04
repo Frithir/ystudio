@@ -12,6 +12,6 @@ content: |-
   * **CLOUD**\
     AWS, GOOGLE, FIREBASE, FTTT, ZAPIER
   * **E-COMMERCE**\
-    STRIPE & MORE...
+    STRIPE, APPLE PAY, BITCOIN, PAYPAL & MORE...
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: WHAT I DO
+title: WHAT WE DO
 content: |-
   * **FRONT-END**\
     JAVASCRIPT, ES6, REACT, GULP, HTML5, CSS3

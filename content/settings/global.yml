@@ -1,7 +1,7 @@
-siteTitle: 'Alex Frith | Freelance Front End Developer - Gold Coast, Australia'
-siteUrl: 'https://netlify-cms-react-starter.netlify.com'
+siteTitle: 'YStudio Web Development & Digital Solutions - Gold Coast, Australia'
+siteUrl: 'https://ystudio.com.au'
 siteDescription: 'Lightning-fast, offline-first portfolio built on Netlify CMS and React.'
 socialMediaCard:
-  image: /images/uploads/card-og.png
+  image: /images/uploads/ystudio-card-og.png
   twitterCreatorAccount: '@frithir_com'
   twitterSiteAccount: ''

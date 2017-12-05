@@ -1,5 +1,5 @@
 ---
-title: WHAT I DO
+title: WHAT WE DO
 content: |-
   * **FRONT-END**\
     JAVASCRIPT, ES6, REACT, GULP, HTML5, CSS3
@@ -12,6 +12,6 @@ content: |-
   * **CLOUD**\
     AWS, GOOGLE, FIREBASE, FTTT, ZAPIER
   * **E-COMMERCE**\
-    STRIPE & MORE...
+    STRIPE, APPLE PAY, BITCOIN, PAYPAL & MORE...
 ---
 

@@ -15,11 +15,11 @@ const Contact = styled.section `
 
 export default ({ page }) => (
   <Contact className="section cascade">
-    <div className="container">
+    <div className="container white">
       <p className="white">
         {page.title}
-        <Content source={page.content} />
       </p>
+      <Content source={page.content} />
     </div>
     <StyledForm />
   </Contact>

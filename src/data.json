@@ -1,21 +1,21 @@
 {
   "pages": [
     {
-      "content": "",
+      "content": "\n",
       "excerpt": "",
-      "title": "I drink coffee, write code and improve my development skills every day.",
+      "title": "We drink coffee, write code to improve our development skills every day.",
       "name": "about"
     },
     {
-      "content": "DO YOU HAVE DIGITAL PROJECT? [LETS TALK](mailto:alex@frithir.com)",
+      "content": "DO YOU HAVE A DIGITAL PROJECT? [LETS TALK](mailto:alex@frithir.com)",
       "excerpt": "",
-      "title": "ALWAYS INTERESTED IN COOL IDEAS.",
+      "title": "WE ARE ALWAYS INTERESTED IN YOUR IDEAS.",
       "name": "contact"
     },
     {
       "content": "\n",
       "excerpt": "",
-      "title": "With more than 10 years of experience in digital development & hundreds of websites developed. I write",
+      "title": "With more than 10 years of experience in digital development & hundreds of websites developed. Our studio writes",
       "orange": "code that works™",
       "name": "experience"
     },
@@ -28,19 +28,19 @@
       "name": "home"
     },
     {
-      "content": "* **FRONT-END**\\\n  JAVASCRIPT, ES6, REACT, GULP, HTML5, CSS3\n* **BACK-END**\\\n  NODEJS, PHP, API'S, SYS-ADMIN, LETSENCRYPT, SQL\n* **CMS**\\\n  NETLIFY-CSM, CONTENTFUL, WORDPRESS & MORE...\n* **APPS**\\\n  PROGRESSIVE WEB APPS, REACT, FIREBASE\n* **CLOUD**\\\n  AWS, GOOGLE, FIREBASE, FTTT, ZAPIER\n* **E-COMMERCE**\\\n  STRIPE & MORE...",
+      "content": "* **FRONT-END**\\\n  JAVASCRIPT, ES6, REACT, GULP, HTML5, CSS3\n* **BACK-END**\\\n  NODEJS, PHP, API'S, SYS-ADMIN, LETSENCRYPT, SQL\n* **CMS**\\\n  NETLIFY-CSM, CONTENTFUL, WORDPRESS & MORE...\n* **APPS**\\\n  PROGRESSIVE WEB APPS, REACT, FIREBASE\n* **CLOUD**\\\n  AWS, GOOGLE, FIREBASE, FTTT, ZAPIER\n* **E-COMMERCE**\\\n  STRIPE, APPLE PAY, BITCOIN, PAYPAL & MORE...",
       "excerpt": "",
-      "title": "WHAT I DO",
+      "title": "WHAT WE DO",
       "name": "what-i-do"
     }
   ],
   "settings": [
     {
-      "siteTitle": "Alex Frith | Freelance Front End Developer - Gold Coast, Australia",
-      "siteUrl": "https://netlify-cms-react-starter.netlify.com",
+      "siteTitle": "YStudio Web Development & Digital Solutions - Gold Coast, Australia",
+      "siteUrl": "https://ystudio.com.au",
       "siteDescription": "Lightning-fast, offline-first portfolio built on Netlify CMS and React.",
       "socialMediaCard": {
-        "image": "/images/uploads/card-og.png",
+        "image": "/images/uploads/ystudio-card-og.png",
         "twitterCreatorAccount": "@frithir_com",
         "twitterSiteAccount": ""
       },

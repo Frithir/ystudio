@@ -62,7 +62,7 @@ class App extends Component {
           <Welcome page={this.getDocument("pages", "home")} />
           <ImageRow collectionId="488" alt="Learning, reading, up skilling" />
           <About page={this.getDocument("pages", "what-i-do")} />
-          <ImageRow collectionId="764827" alt="Office, space" />
+          <ImageRow collectionId="465326" alt="Office, space" />
           <Experience page={this.getDocument("pages", "experience")} />
           <ImageRow
             collectionId="397770"
